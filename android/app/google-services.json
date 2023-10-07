@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889377102240",
+    "project_id": "mynotes-flutter-mayur",
+    "storage_bucket": "mynotes-flutter-mayur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889377102240:android:7647392dfa419f5685ecc5",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxptVcAbJvuggGjWz5attX_VaqcRIBy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
